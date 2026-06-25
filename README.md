@@ -26,8 +26,8 @@ O ecossistema de ferramentas utilizado para a resolução desta atividade inclui
 
 ## 👨‍💻 Autor
 
-* **Seu Nome Aqui** — [@seu_usuario_do_github](https://github.com/seu_usuario_do_github)
-* **E-mail:** seu.email@exemplo.com
+* **Luiz Vinicius** — [@seu_usuario_do_github]([https://github.com/seu_usuario_do_github](https://github.com/luizvinicius2219))
+* **E-mail:** luizvinicius0912@gmail.com
 
 ---
 <p align="center">Desenvolvido com 💙 para a jornada de dados no FAP 2026.</p>
