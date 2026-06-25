@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Sobre o Projeto
+## 📌 Sobre o Projeto!
 Este repositório foi criado para centralizar e apresentar as atividades desenvolvidas durante o módulo prático do curso **FAP 2026 (Formação Acelerada em Programação)**. O objetivo principal é aplicar técnicas de manipulação, limpeza, exploração e visualização de dados para extrair *insights* valiosos a partir de bases de dados reais.
 
 ---
