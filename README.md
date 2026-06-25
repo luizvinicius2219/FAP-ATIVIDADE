@@ -26,7 +26,7 @@ O ecossistema de ferramentas utilizado para a resolução desta atividade inclui
 
 ## 👨‍💻 Autor
 
-* **Luiz Vinicius** — [@luizvinicius2219]([https://github.com/seu_usuario_do_github](https://github.com/luizvinicius2219))
+* **Luiz Vinicius** — [@luizvinicius2219](https://github.com/luizvinicius2219))
 * **E-mail:** luizvinicius0912@gmail.com
 
 ---
